@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GreeterTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-11-28T17:50:35" hostname="DESKTOP-87SVNAK" time="0.107">
+  <properties/>
+  <testcase name="testThatGreeterReturnsTheCorrectGreeting" classname="GreeterTest" time="0.107"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
